@@ -1,7 +1,7 @@
 export default function bodyDiv(){
     return(`
         <div class="bodyDiv">
-            <div class="carrossel">
+            <div class="bodyDivCarrossel">
                 <div class="carrosseis">
                     <div class="carrInfo">Info1</div>
                     <div class="carrInfo">Info2</div>
