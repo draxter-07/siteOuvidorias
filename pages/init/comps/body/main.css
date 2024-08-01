@@ -7,6 +7,31 @@
     padding: 30px;
 }
 
+.carrossel{
+    width: 70%;
+    height: 200px;
+    background: rgb(255, 255, 255);
+    border-radius: 15px;
+    margin: 0px 0px 30px 0px;
+}
+
+.carrosseis{
+    display: flex;
+    flex-direction: row;
+    width: 300%;
+    height: 100%;
+    overflow-x: scroll;
+    transition: translate var(--transitionTime);
+}
+
+.carrInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 33%;
+}
+
 .info{
     display: flex;
     flex-direction: column;
