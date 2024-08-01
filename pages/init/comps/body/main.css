@@ -29,7 +29,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 33%;
     background: var(--primaryColor);
     font-weight: 700;
 }
