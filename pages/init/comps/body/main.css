@@ -5,6 +5,7 @@
     width: 100%;
     background: rgb(0, 0, 0);
     padding: 30px;
+    overflow-x: hidden;
 }
 
 .bodyDivCarrossel{
